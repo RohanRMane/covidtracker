@@ -1,1 +1,1 @@
-# covidtracker
+# Covid Tracker App
